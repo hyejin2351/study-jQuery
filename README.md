@@ -7,6 +7,6 @@
 <br>
 공부 기간: 2018.11.16 ~ 
 <br>
-회독 : 1회독~
+회독 : ~ 1회독
 <br>
 Zip 형식으로 다운로드: http://www.webdongne.com/bbs/bbs/download.php?bo_table=wbook_list&wr_id=11&no=0
