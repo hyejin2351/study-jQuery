@@ -1,0 +1,20 @@
+{
+  "name": "study-jQuery",
+  "version": "1.0.0",
+  "description": "제이쿼리 스터디",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyejin2351/study-jQuery.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hyejin2351/study-jQuery/issues"
+  },
+  "homepage": "https://github.com/hyejin2351/study-jQuery#readme"
+}
